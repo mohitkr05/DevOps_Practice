@@ -5,6 +5,7 @@ run = ""
 <<<<<<< HEAD
 run = ""
 =======
+<<<<<<< HEAD
 run = "ls"
 >>>>>>> origin/main
 <<<<<<< HEAD
@@ -13,5 +14,12 @@ run = "ls"
 =======
 >>>>>>> origin/main
 =======
+=======
+<<<<<<< HEAD
+run = ""
+=======
+run = "ls"
+>>>>>>> origin/main
+>>>>>>> origin/main
 >>>>>>> origin/main
 >>>>>>> origin/main
