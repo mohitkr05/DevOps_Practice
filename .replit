@@ -1,9 +1,22 @@
 language = "bash"
 <<<<<<< HEAD
+run = "ls"
+=======
+<<<<<<< HEAD
 run = ""
 =======
 <<<<<<< HEAD
 run = ""
+=======
+<<<<<<< HEAD
+run = "ls"
+>>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e97d8db5741221abb3d20d4d47c1fe058f64e8f1
+=======
+>>>>>>> origin/main
+=======
 =======
 <<<<<<< HEAD
 run = ""
@@ -19,6 +32,9 @@ run = "ls"
 >>>>>>> origin/main
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> origin/main
 =======
+=======
+>>>>>>> origin/main
 >>>>>>> origin/main
