@@ -9,10 +9,16 @@ run = ""
 run = ""
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 run = ""
 =======
+=======
+>>>>>>> origin/main
 run = "ls"
 >>>>>>> origin/main
 >>>>>>> origin/main
 >>>>>>> origin/main
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
