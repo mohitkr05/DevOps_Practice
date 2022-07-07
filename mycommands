@@ -1,0 +1,16 @@
+~/DevOpsPractice$ history
+    1  history
+~/DevOpsPractice$ ls
+arpitha.txt  groupa  groupc  saurav  swapnika
+file1.txt    groupb  groupd  swacch.txt
+~/DevOpsPractice$ cd/groupd/saurav
+bash: cd/groupd/saurav: No such file or directory
+~/DevOpsPractice$ cd /groupd/saurav
+bash: cd: /groupd/saurav: No such file or directory
+~/DevOpsPractice$ cd groupd
+~/DevOpsPractice/groupd$ cd saurav
+~/.../groupd/saurav$ touch file3.txt
+~/.../groupd/saurav$ pwd
+/home/runner/DevOpsPractice/groupd/saurav
+~/.../groupd/saurav$ cat>file3.txt
+hey guys
