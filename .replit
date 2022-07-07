@@ -1,6 +1,9 @@
 language = "bash"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
 run = ""
+>>>>>>> origin/main
 =======
 <<<<<<< HEAD
 run = "ls"
@@ -12,6 +15,9 @@ run = ""
 run = ""
 =======
 <<<<<<< HEAD
+
+
+ g
 run = "ls"
 >>>>>>> origin/main
 <<<<<<< HEAD
