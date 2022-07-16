@@ -8,3 +8,9 @@ can write something
 then git add .
 git commit -m "file name "
 touch filename. to create new file instantlty
+git push -u origin main
+git user.name 
+git user.email
+git config --global username 
+git config -e
+git status
