@@ -1,1 +1,10 @@
 hello world
+ls
+mkdir -p groupa/kishore (-p parent directory)
+cd groupa/kishore
+created new files
+cat filename 
+can write something 
+then git add .
+git commit -m "file name "
+touch filename. to create new file instantlty
